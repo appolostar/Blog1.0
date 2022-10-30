@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL(PostGIS)安装与卸载
-date: 2022-10-30 15:52:36
+date: 2022-10-30 15:52:00
+updated: 2022-10-30 15:53:00
 description: PostgreSQL(PostGIS)安装与卸载
 categories:
 - 数据库
