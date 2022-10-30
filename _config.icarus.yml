@@ -3,7 +3,7 @@ variant: default
 #logo: /img/logo.svg
 logo: /jpg/logo.jpg
 head:
-    favicon: /img/favicon.svg
+    favicon: /jpg/logo.jpg
     manifest:
         name: 
         short_name: 
