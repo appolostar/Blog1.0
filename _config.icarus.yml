@@ -173,15 +173,15 @@ widgets:
         type: categories
     -
         # 最新文章
-        position: left
+        position: right
         type: recent_posts
     -
         # 归档
-        position: left
+        position: right
         type: archives
     -
         #标签
-        position: left
+        position: right
         type: tags
         order_by: name
         amount: 
