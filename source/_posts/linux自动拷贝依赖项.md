@@ -5,6 +5,7 @@ updated: 2022-10-31 10:51:00
 description: Linux拷贝程序依赖的所有动态库、自动检测部署环境是否缺失拷贝的动态库.方便服务部署
 cover: 
 thumbnail: 
+toc: true
 categories:
 - Linux
 tags:

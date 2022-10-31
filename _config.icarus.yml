@@ -71,16 +71,16 @@ article:
         fold: unfolded
     readtime: true
     update_time: true
-    licenses:
-        Creative Commons:
-            icon: fab fa-creative-commons
-            url: https://creativecommons.org/
-        Attribution:
-            icon: fab fa-creative-commons-by
-            url: https://creativecommons.org/licenses/by/4.0/
-        Noncommercial:
-            icon: fab fa-creative-commons-nc
-            url: https://creativecommons.org/licenses/by-nc/4.0/
+    #licenses:
+    #    Creative Commons:
+    #        icon: fab fa-creative-commons
+    #        url: https://creativecommons.org/
+    #    Attribution:
+    #        icon: fab fa-creative-commons-by
+    #        url: https://creativecommons.org/licenses/by/4.0/
+    #    Noncommercial:
+    #        icon: fab fa-creative-commons-nc
+    #        url: https://creativecommons.org/licenses/by-nc/4.0/
 
 #搜索插件配置
 search:
@@ -88,10 +88,10 @@ search:
     index_pages: true
 
 #评论插件配置
-comment:
-    type: changyan
-    app_id: cywlVyW7c
-    conf: prod_7add94a4056060ca06be98f1b8c6cbc1
+#comment:
+#    type: changyan
+#    app_id: cywlVyW7c
+#    conf: prod_7add94a4056060ca06be98f1b8c6cbc1
 
 #捐赠插件配置
 #donates:
@@ -123,7 +123,7 @@ comment:
 sidebar:
     left:
         # 当页面滚动时左侧侧边栏是否停留在顶部
-        sticky: false
+        sticky: true
     right:
         sticky: false
 widgets:
