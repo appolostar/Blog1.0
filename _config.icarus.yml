@@ -52,7 +52,7 @@ navbar:
     links:
         repositories:
             icon: fab fa-github
-            url: https://github.com/ShawayL/ShawayL.github.io
+            url: https://github.com/ShawayL/HexoBlog
 footer:
     links:
         #Creative Commons:
@@ -166,7 +166,7 @@ widgets:
         position: left
         type: links
         links:
-            My github: https://github.com/ShawayL
+            Shaway github: https://github.com/ShawayL
     -
         # 分类
         position: left
