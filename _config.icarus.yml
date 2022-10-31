@@ -88,9 +88,10 @@ search:
     index_pages: true
 
 #评论插件配置
-#comment:
-#    type: disqus
-#    shortname: ''
+comment:
+    type: changyan
+    app_id: cywlVyW7c
+    conf: prod_7add94a4056060ca06be98f1b8c6cbc1
 
 #捐赠插件配置
 #donates:
