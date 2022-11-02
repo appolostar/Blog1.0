@@ -155,12 +155,9 @@ widgets:
             #    icon: fas fa-rss
             #    url: /
     -
-        # 目录
-        position: right
-        type: toc
-        index: true
-        collapsed: true
-        depth: 3
+        # 分类
+        position: left
+        type: categories
     -
         # 链接
         position: left
@@ -168,9 +165,12 @@ widgets:
         links:
             Shaway github: https://github.com/ShawayL
     -
-        # 分类
-        position: left
-        type: categories
+        # 目录
+        position: right
+        type: toc
+        index: true
+        collapsed: true
+        depth: 3
     -
         # 最新文章
         position: right
