@@ -156,7 +156,7 @@ widgets:
             #    url: /
     -
         # 目录
-        position: left
+        position: right
         type: toc
         index: true
         collapsed: true
