@@ -128,6 +128,13 @@ sidebar:
         sticky: true
 widgets:
     -
+        # 目录
+        position: left
+        type: toc
+        index: true
+        collapsed: true
+        depth: 3
+    -
         # 个人信息
         position: left
         type: profile
@@ -164,13 +171,6 @@ widgets:
         type: links
         links:
             Shaway github: https://github.com/ShawayL
-    -
-        # 目录
-        position: right
-        type: toc
-        index: true
-        collapsed: true
-        depth: 3
     -
         # 最新文章
         position: right
