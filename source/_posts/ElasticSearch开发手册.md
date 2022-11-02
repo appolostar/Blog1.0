@@ -31,6 +31,8 @@ tags:
 | 数据列Column              | 字段Field                       |
 | 约束 Schema               | 映射Mapping                     |
 
+<!-- more -->
+
 ### **1、index、type的初衷**
 
 之前es将index、type类比于[关系型数据库](https://so.csdn.net/so/search?q=关系型数据库&spm=1001.2101.3001.7020)（例如mysql）中database、table，这么考虑的目的是“方便管理数据之间的关系”。
