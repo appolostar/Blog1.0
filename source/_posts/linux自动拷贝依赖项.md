@@ -2,9 +2,9 @@
 title: linux自动拷贝依赖项
 date: 2022-10-31 10:51:00
 updated: 2022-10-31 10:51:00
-description: Linux拷贝程序依赖的所有动态库、自动检测部署环境是否缺失拷贝的动态库.方便服务部署
-cover: 
-thumbnail: 
+excerpt: Linux拷贝程序依赖的所有动态库、自动检测部署环境是否缺失拷贝的动态库.方便服务部署
+cover: /images/cover/736461.png
+thumbnail: /images/cover/736461.png
 toc: true
 categories:
 - Linux
@@ -14,8 +14,6 @@ tags:
 ---
 
 ​    一般来说如果server在一台机器上部署好了之后再拷贝到别的机器上会出现动态库缺失的情况，需要在两台机器来回拷贝动态库十分麻烦，于是需要一个脚本，用来一键拷贝依赖的所有动态库，在需要部署的机器上会检测每个动态库是否缺失并且把缺失的动态库拷贝到指定目录下。
-
-<!-- more -->
 
 先放出脚本
 

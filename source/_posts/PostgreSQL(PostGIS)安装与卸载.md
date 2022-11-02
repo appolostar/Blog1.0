@@ -2,7 +2,7 @@
 title: PostgreSQL(PostGIS)安装与卸载
 date: 2022-10-30 15:52:00
 updated: 2022-10-30 15:53:00
-description: PostgreSQL(PostGIS)安装与卸载
+excerpt: PostgreSQL(PostGIS)安装与卸载
 cover: /images/cover/1050187.jpg
 thumbnail: /images/cover/1050187.jpg
 toc: true
@@ -19,7 +19,6 @@ tags:
 运行postgresql-11.10-1-windows-x64.exe。
 
 ![安装1](PostgreSQL(PostGIS)安装与卸载/安装1.PNG)
-<!-- more -->
 
 选择安装目录，我的是"E:\PostgreSQL\11"。
 

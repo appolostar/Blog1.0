@@ -2,7 +2,7 @@
 title: ElasticSearch开发手册
 date: 2022-11-2 16:46:00
 updated: 2022-11-2 16:46:00
-description: ElasticSearch开发手册
+excerpt: ElasticSearch开发手册
 cover: /images/cover/8a7916050d0fef4c0681baf75b9b067.jpg
 thumbnail: /images/cover/8a7916050d0fef4c0681baf75b9b067.jpg
 toc: true
@@ -30,8 +30,6 @@ tags:
 | 数据行Row                 | 文档Document                    |
 | 数据列Column              | 字段Field                       |
 | 约束 Schema               | 映射Mapping                     |
-
-<!-- more -->
 
 ### **1、index、type的初衷**
 

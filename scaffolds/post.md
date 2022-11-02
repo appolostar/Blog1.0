@@ -2,7 +2,7 @@
 title: {{ title }}
 date: {{ date }}
 updated:
-description:
+excerpt:
 cover: 
 thumbnail: 
 toc: true
