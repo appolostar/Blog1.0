@@ -1,9 +1,9 @@
 version: 5.1.0
 variant: default
 #logo: /img/logo.svg
-logo: /jpg/logo.jpg
+logo: /images/avatar/logo.jpg
 head:
-    favicon: /jpg/logo.jpg
+    favicon: /images/avatar/logo.jpg
     manifest:
         name: 
         short_name: 
@@ -141,7 +141,7 @@ widgets:
         author: Shaway
         author_title: 但行好事，莫问前程
         location: The junction of Teyvat and Demacia
-        avatar: /jpg/sasuke.jpg
+        avatar: /images/avatar/sasuke.jpg
         avatar_rounded: true
         gravatar: 
         follow_link: https://github.com/ShawayL
