@@ -1,9 +1,9 @@
 version: 5.1.0
 variant: default
 #logo: /img/logo.svg
-logo: /images/avatar/logo.jpg
+logo: /images/logo/sasuke.png
 head:
-    favicon: /images/avatar/logo.jpg
+    favicon: /images/logo/sasuke.png
     manifest:
         name: 
         short_name: 
