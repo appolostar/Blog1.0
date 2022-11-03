@@ -138,17 +138,17 @@ widgets:
         # 个人信息
         position: left
         type: profile
-        author: Shaway
+        author: Appolostar
         author_title: 但行好事，莫问前程
         location: The junction of Teyvat and Demacia
         avatar: /images/avatar/sasuke.jpg
         avatar_rounded: true
         gravatar: 
-        follow_link: https://github.com/ShawayL
+        follow_link: https://github.com/appolostar
         social_links:
             Github:
                 icon: fab fa-github
-                url: https://github.com/ShawayL
+                url: https://github.com/appolostar
             #Facebook:
             #    icon: fab fa-facebook
             #    url: https://facebook.com
@@ -170,7 +170,7 @@ widgets:
         position: left
         type: links
         links:
-            Shaway github: https://github.com/ShawayL
+            Shaway github: https://github.com/appolostar
     -
         # 最新文章
         position: right
